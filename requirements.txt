@@ -1,0 +1,7 @@
+pyTelegramBotApi
+numpy
+pyttsx3 
+pyaudio
+PySoundFile
+SpeechRecognition
+pydub
