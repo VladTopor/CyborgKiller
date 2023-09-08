@@ -8,7 +8,7 @@ import speech_recognition as sr
 import soundfile as sf
 #os.chdir("/home/cyborgkiller")
 users = ejson.Json("users.json")
-bot = telebot.TeleBot("5710456111:AAFMD74M2AdZOxv1pKBmVDQL_ZFyuekwl00")
+bot = telebot.TeleBot("")
 pings = users["pingoff"]["users"]
 PI = math.pi
 version = "v0.9.1-vt.ck_jenya"
